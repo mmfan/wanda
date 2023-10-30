@@ -1337,7 +1337,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
-  
+      {
+      "key": "js_荐片",
+      "name": "⏳┃荐片┃影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/荐片.js",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "童趣",
       "name": "🍭┃童趣┃儿童",
