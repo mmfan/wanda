@@ -111,14 +111,14 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"
     },
      {
-      "key": "csp_小鹿",
-      "name": "🦌┃小鹿┃",
+      "key": "csp_Free",
+      "name": "🦌┃Free┃",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http:tvbox.vip/json/小鹿影视.json"
+      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/Free影视.json"
     },
        {
       "key": "csp_万达",
