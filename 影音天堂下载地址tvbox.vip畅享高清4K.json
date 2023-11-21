@@ -377,28 +377,7 @@
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
    
-    {
-      "key": "嘉靓",
-      "name": "☃┃嘉靓┃",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://api.jialiangos.com:81/api.php/app/"
-    },
-    {
-      "key": "黑狐",
-      "name": "🦇┃黑狐┃",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
-      "playerType": "2",
-      "api": "csp_XBPQ",
-      "ext": "http:tvbox.vip/json/黑狐影院.json"
-    },
+   
     {
       "key": "csp_101",
       "name": "🛎┃LOL┃",
@@ -479,16 +458,7 @@
       "filterable": 1,
       "ext": "http:tvbox.vip/json/米爱.json"
     },
-     {
-      "key": "js_mogu",
-      "name": "🍄┃蘑菇┃",
-      "type": 3,
-      "api": "http:tvbox.vip/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http:tvbox.vip/js/蘑菇.js"
-    },
+   
       {
       "key": "csp_AppMr",
       "name": "👻┃明明┃",
