@@ -48,7 +48,7 @@
     },
       {
       "key": "相声",
-      "name": "📻相声┃BPQ",
+      "name": "📻┃相声┃",
       "type": 3,
       "searchable": 0,
       "style": {
@@ -83,7 +83,7 @@
     },
     {
       "key": "评书",
-      "name": "📻评书┃BPQ",
+      "name": "📻┃评书┃",
       "type": 3,
       "searchable": 0,
       "style": {
@@ -116,16 +116,7 @@
         "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
       }
     },
-    {
-      "key": "csp_WoGG",
-      "name": "🎈玩偶┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
+   
     {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃",
@@ -182,7 +173,7 @@
     },
        {
       "key": "玉米",
-      "name": "🌽玉米┃采集",
+      "name": "🌽┃玉米┃",
       "type": 0,
       "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
       "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=",
@@ -221,6 +212,17 @@
       "filterable": 1,
       "ext": "http://vipcms.lyyytv.cn/api.php/app/"
     },
+     {
+      "key": "玩偶哥哥",
+      "name": "♨️┃玩偶┃4K",
+      "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    }, 
     {
       "key": "繁星",
       "name": "💥┃繁星┃",
@@ -310,7 +312,7 @@
     },
       {
       "key": "橘子",
-      "name": "🍊橘子┃App",
+      "name": "🍊┃橘子┃",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -320,7 +322,7 @@
     },
     {
       "key": "csp_XYQHiker_‍dyx",
-      "name": "┃影港┃4k",
+      "name": "🪐┃影港┃4k",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -339,16 +341,15 @@
       "filterable": 1,
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/6V.js"
     },
-    {
-      "key": "玩偶哥哥",
-      "name": "♨️┃玩偶┃4K",
+     {
+      "key": "csp_XBPQ_6V",
+      "name": "🏍┃天堂┃4k",
       "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-      "api": "csp_WoGG",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "filterable": 1,
+      "ext": "http:tvbox.vip/json/新6v.json"
     },
     {
       "key": "csp_子子",
@@ -407,7 +408,7 @@
     },
     {
       "key": "黑狐",
-      "name": "🦊黑狐┃BPQ",
+      "name": "🦊┃黑狐┃",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -916,7 +917,7 @@
     },
     {
       "key": "双黄",
-      "name": "🥚双黄┃BPQ",
+      "name": "🥚┃双黄┃",
       "type": 3,
       "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
@@ -933,7 +934,7 @@
     },
     {
       "key": "热播库",
-      "name": "🔥热播┃BPQ",
+      "name": "🔥┃热播┃",
       "type": 3,
       "changeable": 1,
       "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -1042,16 +1043,7 @@
         "动漫"
       ]
     },
-    {
-      "key": "csp_XBPQ_6V",
-      "name": "🏍┃天堂┃4k",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http:tvbox.vip/json/新6v.json"
-    },
+   
     {
       "key": "爱迪影视",
       "name": "💘┃爱迪┃",
