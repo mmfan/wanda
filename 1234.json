@@ -224,17 +224,17 @@
       "filterable": 1,
       "ext": "http://vipcms.lyyytv.cn/api.php/app/"
     },
-     {
-      "key": "玩偶哥哥",
+    
+      {
+      "key": "csp_FanYY",
       "name": "♨️┃玩偶┃4K",
       "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    }, 
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
     {
       "key": "繁星",
       "name": "💥┃繁星┃",
