@@ -677,15 +677,15 @@
       ]
     },
     {
-      "key": "csp_干饭",
-      "name": "🍱┃干饭┃",
+      "key": "csp_XBPQ_wanda",
+      "name": "🗽┃万达┃",
       "type": 3,
-      "jar": "http:tvbox.vip/jar/H.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/干饭影视.json"
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/万达.json"
     },
     {
       "key": "csp_xBPQ_疯狗",
@@ -806,16 +806,7 @@
       "api": "csp_XBPQ",
       "ext": "http:tvbox.vip/json/蜗牛.json"
     },
-    {
-      "key": "csp_appysv2_毛子",
-      "name": "🐛┃毛子┃",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-    },
+   
     {
       "key": "鑫鑫影视",
       "name": "🐼┃鑫鑫┃",
@@ -885,16 +876,7 @@
       "api": "csp_XBPQ",
       "ext": "http:tvbox.vip/json/素白白.json"
     },
-    {
-      "key": "js_bzys",
-      "name": "🌋┃B站┃",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/bzys.js"
-    },
+   
     {
       "key": "🌡csp_米爱影视",
       "name": "🌡┃米爱┃",
