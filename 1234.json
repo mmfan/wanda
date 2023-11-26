@@ -431,16 +431,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },玉米┃",
-      "type": 0,
-      "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
-      "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=",
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "filterable": 1
     },
-
 {
       "key": "相声",
       "name": "📻┃相声┃",
