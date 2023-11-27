@@ -65,16 +65,7 @@
       "quickSearch": 1,
       "changeable": 0
     },
-      {
-      "key": "csp_FanYY",
-      "name": "♨️┃玩偶┃4K",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
+     
     {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃",
@@ -139,6 +130,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
+    },
+     {
+      "key": "csp_FanYY",
+      "name": "♨️┃玩偶┃4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "csp_Free",
