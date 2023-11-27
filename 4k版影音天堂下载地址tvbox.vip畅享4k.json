@@ -138,14 +138,17 @@
       "filterable": 1,
       "ext": "http://vipcms.lyyytv.cn/api.php/app/"
     },
-     {
-      "key": "蝴蝶",
-      "name": "🦋┃蝴蝶┃",
+    
+      {
+      "key": "爱迪",
+      "name": "💡┃爱迪┃",
       "type": 3,
-      "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/jar.php",
-      "api": "csp_Hudie",
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "playerType": 2,
-      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
       {
       "key": "csp_FanYY",
@@ -1046,14 +1049,7 @@
       ]
     },
    
-    {
-      "key": "爱迪影视",
-      "name": "💘┃爱迪┃",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_AppYsV2",
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
+   
     {
       "key": "耐看",
       "name": "🛎┃耐看┃",
@@ -1484,16 +1480,12 @@
       "changeable": 1,
       "ext": "https://www.czz9.com/"
     },
-    {
-      "key": "js_荐片",
-      "name": "🏩┃推荐┃",
+     {
+      "key": "荐片",
+      "name": "🎬┃荐片┃",
       "type": 3,
-      "api": "http:tvbox.vip/libs/drpy2.min.js",
-      "ext": "http:tvbox.vip/js/荐片.js",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://fanty.run.goorm.site/ext/jp.js"
     },
     {
       "key": "童趣",
