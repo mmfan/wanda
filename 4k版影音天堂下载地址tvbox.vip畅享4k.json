@@ -132,6 +132,16 @@
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
     },
      {
+      "key": "js_农民",
+      "name": "👨‍🌾┃农民┃",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nongmin.js"
+    },
+     {
       "key": "csp_FanYY",
       "name": "♨️┃玩偶┃4K",
       "type": 3,
