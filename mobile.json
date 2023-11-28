@@ -1,20 +1,9 @@
 {
   "warningText": "🐼公众号：影音天堂,祝您发大财🐼",
   "sites": [
-    
-     {
-      "key": "影探VIP",
-      "name": "影视世界┃4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
-    },
     {
       "key": "豆豆",
-      "name": "🍥豆瓣榜单🍥",
+      "name": "🍥高清4k版影视世界下载地址tvbox.vip畅享4k🍥",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
       "api": "csp_DouDou",
@@ -44,6 +33,16 @@
       "ext": "http:tvbox.vip/json/zb.json"
     },
     
+     {
+      "key": "影探VIP",
+      "name": "🚄┃影探┃4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
+    },
     
       {
       "key": "爱迪",
@@ -2095,7 +2094,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://xhdwc.tk/tvlive.txt",
+      "url": "https://dimaston.github.io/live.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
