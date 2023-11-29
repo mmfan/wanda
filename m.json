@@ -13,7 +13,7 @@
     },
     {
       "key": "豆豆",
-      "name": "🍥┃豆瓣┃",
+      "name": "🍥┃豆瓣┃榜单",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
       "api": "csp_DouDou",
@@ -730,7 +730,7 @@
     },
        {
       "key": "龟龟",
-      "name": "🐢龟龟┃BPQ",
+      "name": "🐢┃龟龟┃",
       "type": 3,
       "changeable": 1,
       "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
