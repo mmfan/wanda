@@ -44,7 +44,7 @@
     },
     
     
-    
+     
       {
       "key": "爱迪",
       "name": "💡┃爱迪┃",
@@ -121,7 +121,13 @@
         "影视解说"
       ]
     },
-     
+         {
+      "key": "小胡",
+      "name": "🔥┃点赞┃",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://d.xzam.cn/api.php/provide/vod/"
+    },
     {
       "key": "js_nangua",
       "name": "🎃┃南瓜┃",
@@ -143,6 +149,17 @@
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nongmin.js"
     },
      {
+      "key": "奇奇",
+      "name": "🐭┃迷你┃",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": "2",
+      "ext": "http://www.miniku.cc/xgapp.php/v1/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
       "key": "csp_FanYY",
       "name": "♨️┃玩偶┃4K",
       "type": 3,
@@ -152,6 +169,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
+       {
+      "key": "csp_Lib",
+      "name": "💫┃Libv┃",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "https://www.libvio.fun/"
     },
     {
       "key": "csp_Free",
