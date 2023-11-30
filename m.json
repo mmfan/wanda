@@ -97,17 +97,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
-      "key": "Auete",
-      "name": "🏂┃奥特┃",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;ea2690fc66083afe1431071968e60395",
-  "lives": [
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+   
     
     {
       "key": "js_nangua",
@@ -156,6 +146,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+     {
+      "key": "Auete",
+      "name": "🏝┃奥特┃",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://haozhansou.com/"
     },
      {
       "key": "csp_FanYY",
