@@ -151,8 +151,8 @@
       "key": "Libo",
       "name": "🌝┃Libo┃",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/libvio.js"
+      "api": "https://jihulab.com/wanda/4k/-/raw/main/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/wanda/4k/-/raw/main/js/libvio.js"
     },
     {
       "key": "csp_Free",
