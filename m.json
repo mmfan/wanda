@@ -148,15 +148,11 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
        {
-      "key": "csp_Lib",
-      "name": "💫┃Libv┃",
+      "key": "Libo",
+      "name": "🌝┃Libo┃",
       "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "https://www.libvio.fun/"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/libvio.js"
     },
     {
       "key": "csp_Free",
