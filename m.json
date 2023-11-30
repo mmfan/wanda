@@ -97,7 +97,25 @@
       "quickSearch": 1,
       "changeable": 1
     },
-   
+     {
+      "key": "Auete",
+      "name": "🏂┃奥特┃",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+     {
+      "key": "赞赞",
+      "name": "🥣┃赞赞┃",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
          {
       "key": "小胡",
       "name": "🔥┃点赞┃",
