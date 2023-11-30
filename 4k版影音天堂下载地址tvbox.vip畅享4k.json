@@ -1,16 +1,6 @@
 {
   "warningText": "🐼公众号：影音天堂,祝您发大财🐼",
   "sites": [
-      {
-      "key": "豆豆",
-      "name": "🍥┃豆瓣┃榜单",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
      {
       "key": "影探VIP",
       "name": "影视世界┃4K",
@@ -21,7 +11,16 @@
       "filterable": 1,
       "ext": "http://vipcms.lyyytv.cn/api.php/app/"
     },
-   
+    {
+      "key": "豆豆",
+      "name": "🍥┃豆瓣┃榜单",
+      "type": 3,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "應用商店",
       "name": "🏮┃软件┃下载",
@@ -152,8 +151,8 @@
       "key": "Libo",
       "name": "🌝┃Libo┃",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/libvio.js"
+      "api": "https://jihulab.com/wanda/4k/-/raw/main/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/wanda/4k/-/raw/main/js/libvio.js"
     },
     {
       "key": "csp_Free",
