@@ -1288,6 +1288,72 @@
       "playerType": 1,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
+        {
+      "key": "csp_七夜",
+      "name": "🔎┃阿里┃七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/ali.jar;md5;A69A807A642DDB3539E00E2CA31C6859",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🏵️‍┃阿里┃PanS",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/ali.jar;md5;A69A807A642DDB3539E00E2CA31C6859",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "Upyunso",
+      "name": "🌤️┃阿里┃云搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/ali.jar;md5;A69A807A642DDB3539E00E2CA31C6859",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "Alips",
+      "name": "📀┃阿里┃盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/ali.jar;md5;A69A807A642DDB3539E00E2CA31C6859",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "Yisou",
+      "name": "🎯┃阿里┃易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/ali.jar;md5;A69A807A642DDB3539E00E2CA31C6859",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🔍┃阿里┃找片",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/ali.jar;md5;A69A807A642DDB3539E00E2CA31C6859",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
+    },
     {
       "key": "csp_MeiJu69",
       "name": "🗽┃六九┃美剧",
