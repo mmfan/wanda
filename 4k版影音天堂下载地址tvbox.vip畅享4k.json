@@ -1,7 +1,8 @@
 {
   "warningText": "🐼公众号：影音天堂,祝您发大财🐼",
   "sites": [
-      {
+     
+    {
       "key": "豆豆",
       "name": "🍥┃豆瓣┃榜单",
       "type": 3,
@@ -11,7 +12,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-     {
+    {
       "key": "影探VIP",
       "name": "影视世界┃4K",
       "type": 3,
@@ -68,16 +69,7 @@
       "playerType": 2,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
-     {
-      "key": "feiyun",
-      "name": "☁️┃飞云┃",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+    
      
     {
       "key": "csp_Bttoo",
@@ -99,13 +91,7 @@
       "changeable": 1
     },
    
-         {
-      "key": "小胡",
-      "name": "🔥┃点赞┃",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://d.xzam.cn/api.php/provide/vod/"
-    },
+    
     {
       "key": "js_nangua",
       "name": "🎃┃南瓜┃",
@@ -115,6 +101,24 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
+    },
+      {
+      "key": "蝴蝶",
+      "name": "🦋┃A蝴蝶┃",
+      "type": 3,
+       "jar": "http://cdn.qiaoji8.com/fix1110.jar;md5;3c3cd629e6463d91c11585d727722580",
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
+    },
+      {
+      "key": "路人",
+      "name": "🖼┃画画┃",
+        "jar": "https://d.kstore.space/download/6296/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
+      "api": "csp_AppYs",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
     },
      {
       "key": "js_农民",
@@ -127,6 +131,33 @@
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nongmin.js"
     },
      {
+      "key": "赞赞",
+      "name": "🥣┃赞赞┃",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+     {
+      "key": "feiyun",
+      "name": "☁️┃飞云┃",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+         {
+      "key": "小胡",
+      "name": "🔥┃点赞┃",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://d.xzam.cn/api.php/provide/vod/"
+    },
+     {
       "key": "奇奇",
       "name": "🐭┃迷你┃",
       "type": 3,
@@ -136,6 +167,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+     {
+      "key": "Auete",
+      "name": "🏝┃奥特┃",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://haozhansou.com/"
     },
      {
       "key": "csp_FanYY",
@@ -165,7 +206,27 @@
       "filterable": 1,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/Free影视.json"
     },
-   
+         {
+      "key": "saohuo",
+      "name": "🎇┃骚火┃",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "ext": {
+        "嗅探词": "m3u8#mp4",
+        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1dau0",
+        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
+        "数组": "\"v_img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v_note\"&&</div",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
+    },
     {
       "key": "繁星",
       "name": "💥┃繁星┃",
@@ -1292,7 +1353,7 @@
      
     {
       "key": "csp_MeiJu69",
-      "name": "🗽┃六九┃美剧",
+      "name": "🗽┃六九┃",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -1302,7 +1363,7 @@
     },
     {
       "key": "csp_Zxzj",
-      "name": "🏠┃在线┃之家",
+      "name": "🏠┃在线┃",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -1312,7 +1373,7 @@
     },
     {
       "key": "Kuaikan",
-      "name": "🦋┃快看┃影视",
+      "name": "🦋┃快看┃",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -1321,7 +1382,7 @@
     },
     {
       "key": "csp_Vofl",
-      "name": "🧿┃VoFl┃资源",
+      "name": "🧿┃VoFl┃",
       "type": 3,
       "api": "csp_Voflix",
       "searchable": 1,
@@ -1330,7 +1391,7 @@
     },
     {
       "key": "csp_Anime1",
-      "name": "🌸┃动漫┃系列",
+      "name": "🌸┃动漫┃",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
