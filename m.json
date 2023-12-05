@@ -69,16 +69,7 @@
       "playerType": 2,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
-     {
-      "key": "feiyun",
-      "name": "☁️┃飞云┃",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+    
      
     {
       "key": "csp_Bttoo",
@@ -111,6 +102,14 @@
       "filterable": 1,
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
     },
+      {
+      "key": "路人",
+      "name": "🖼┃画画┃影视",
+      "api": "csp_AppYs",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+    },
      {
       "key": "js_农民",
       "name": "👨‍🌾┃农民┃",
@@ -127,6 +126,16 @@
       "type": 3,
       "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
       "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+     {
+      "key": "feiyun",
+      "name": "☁️┃飞云┃",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
