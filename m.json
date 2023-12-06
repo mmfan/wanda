@@ -2,6 +2,16 @@
   "warningText": "🐼公众号：影音天堂,祝您发大财🐼",
   "sites": [
      {
+      "key": "drpy_js_豆瓣",
+      "name": "微信公众号:影音天堂",
+      "type": 3,
+      "api": "https://jihulab.com/wanda/4k/-/raw/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/wanda/4k/-/raw/main/js/豆瓣推荐.js"
+    },
+     {
       "key": "影探VIP",
       "name": "影视世界┃4K",
       "type": 3,
