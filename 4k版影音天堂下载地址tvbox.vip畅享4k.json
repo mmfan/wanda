@@ -2,16 +2,6 @@
   "warningText": "🐼4k版影音天堂下载地址tvbox.vip🐼",
   "sites": [
       {
-      "key": "影探VIP",
-      "name": "影视世界┃4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
-    },
-      {
       "key": "豆豆",
       "name": "🌕┃热播┃榜单",
       "type": 3,
@@ -21,6 +11,17 @@
       "quickSearch": 0,
       "filterable": 0
     },
+      {
+      "key": "影探VIP",
+      "name": "影视世界┃4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
+    },
+     
    
     {
       "key": "應用商店",
@@ -55,8 +56,48 @@
         "ratio": 1.68
       }
     },
-    
-    
+     {
+      "key": "索尼",
+      "name": "🛸┃乐看┃",
+      "type": 1,
+      "api": "http://letv.pro/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "短剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        
+        "台湾剧",
+        "泰国剧",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "记录片",
+        "海外剧",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "电影解说"
+      ]
+    },
+
+    {"key":"Letv","name":"🎦┃Letv┃","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"https://jihulab.com/wanda/4k/-/raw/main/json/letv.json"},
       {
       "key": "爱迪",
       "name": "💡┃爱迪┃",
