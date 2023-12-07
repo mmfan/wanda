@@ -56,7 +56,7 @@
       }
     },
     
-    {"key":"开心影视","name":"🎦Letv","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"https://jihulab.com/wanda/4k/-/raw/main/json/letv.json"},
+    {"key":"Letv","name":"🎦┃Letv┃","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"https://jihulab.com/wanda/4k/-/raw/main/json/letv.json"},
       {
       "key": "爱迪",
       "name": "💡┃爱迪┃",
