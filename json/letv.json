@@ -26,7 +26,7 @@
     
     "分类url":"http://letv.pro/index.php/vod/type/id/1.html{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
     
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#动画$6",
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#电影解说$6",
     
     "筛选":{
     "1":[
