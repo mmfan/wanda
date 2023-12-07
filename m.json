@@ -110,15 +110,7 @@
       "playerType": 2,
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
     },
-      {
-      "key": "路人",
-      "name": "🖼┃画画┃",
-        "jar": "https://d.kstore.space/download/6296/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-      "api": "csp_AppYs",
-      "type": 3,
-      "playerType": "2",
-      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
-    },
+     
      {
       "key": "js_农民",
       "name": "👨‍🌾┃农民┃",
@@ -177,17 +169,7 @@
       "changeable": 1,
       "ext": "https://haozhansou.com/"
     },
-     {
-      "key": "csp_FanYY",
-      "name": "♨️┃玩偶┃4K",
-      "type": 3,
-      "jar": "http://我不是.肥猫.live/Jar/pandaQ231115.jar;md5;cb2a84ff515a9d54fc7590bb56d62f04",
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
+     
        {
       "key": "Libo",
       "name": "🌝┃Libo┃",
