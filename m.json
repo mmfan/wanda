@@ -11,17 +11,16 @@
       "filterable": 1,
       "ext": "http://vipcms.lyyytv.cn/api.php/app/"
     },
-     {
-      "key": "drpy_js_豆瓣",
-      "name": "微信公众号:影音天堂",
+      {
+      "key": "豆豆",
+      "name": "🌕┃热播┃榜单",
       "type": 3,
-      "api": "https://jihulab.com/wanda/4k/-/raw/main/lib/drpy2.min.js",
-      "searchable": 1,
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2",
+      "api": "csp_DouDou",
+      "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/js/豆瓣推荐.js"
+      "filterable": 0
     },
-    
    
     {
       "key": "應用商店",
