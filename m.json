@@ -1277,71 +1277,72 @@
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E7%AB%A5%E8%B6%A3.js"
     },
-     {
-      "key": "csp_search_七夜",
-      "name": "阿里七夜┃4K",
+       {
+      "key": "csp_七夜",
+      "name": "🔎┃阿里┃七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/line.jar;md5;FA3600EF4294E1D5860EB316E8E9CA75",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
-      "key": "csp_search_PanSearch",
-      "name": "阿里盘搜┃4K",
+      "key": "PanSearch",
+      "name": "🏵️‍┃阿里┃PanS",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/line.jar;md5;FA3600EF4294E1D5860EB316E8E9CA75",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
-      "key": "csp_search_Yisou",
-      "name": "阿里易搜┃4K",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "csp_search_Zhaozy",
-      "name": "阿里资源┃4K",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
-    },
-    {
-      "key": "csp_search_Upyunso",
-      "name": "阿里云搜┃4K",
+      "key": "Upyunso",
+      "name": "🌤️┃阿里┃云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/line.jar;md5;FA3600EF4294E1D5860EB316E8E9CA75",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
-      "key": "csp_search_Alips",
-      "name": "阿里盘搜┃4K",
+      "key": "Alips",
+      "name": "📀┃阿里┃盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/line.jar;md5;FA3600EF4294E1D5860EB316E8E9CA75",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
-     
+    {
+      "key": "Yisou",
+      "name": "🎯┃阿里┃易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/line.jar;md5;FA3600EF4294E1D5860EB316E8E9CA75",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🔍┃阿里┃找片",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/line.jar;md5;FA3600EF4294E1D5860EB316E8E9CA75",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$iduoduo$$$159357"
+    },
     {
       "key": "csp_MeiJu69",
       "name": "🗽┃六九┃",
