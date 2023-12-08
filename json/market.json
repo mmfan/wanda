@@ -1,0 +1,41 @@
+[
+    {
+        "name": "应用商店",
+        "list": [
+             {
+               "name": "影音天堂4K高清版",
+                "url": "http://206.119.166.249:30549/down/xyVHcLpcCAQu.apk",
+                "icon": "http://206.119.166.249:30549/down/c34TE3OSnYdM.png",
+                "version": "点击安装"
+            },
+            {
+               "name": "影视世界4K高清版",
+                "url": "http://206.119.166.249:30549/down/hznxSv7ZoDtv.apk",
+                "icon": "http://206.119.166.249:30549/down/ayD83SBAHZBm.jpg",
+                "version": "点击安装"
+            },
+            {
+                "url": "http://103.39.109.73:28772/down/DfYcuOxU8s2K.png",
+                "icon": "http://103.39.109.73:28772/down/DfYcuOxU8s2K.png",
+                "version": "交流QQ群"
+            }
+        ]
+    },
+    {
+        "name": "4K版影视软件下载安装",
+        "list": [
+            {
+                "name": "影音天堂4K高清版",
+                "url": "http://206.119.166.249:30549/down/xyVHcLpcCAQu.apk",
+                "icon": "http://206.119.166.249:30549/down/c34TE3OSnYdM.png",
+                "version": "点击安装"
+            },
+            {
+               "name": "影视世界4K高清版",
+                "url": "http://206.119.166.249:30549/down/hznxSv7ZoDtv.apk",
+                "icon": "http://206.119.166.249:30549/down/ayD83SBAHZBm.jpg",
+                "version": "点击安装"
+            }
+        ]
+    }
+]
