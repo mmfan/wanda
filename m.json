@@ -76,7 +76,7 @@
       "quickSearch": 1,
       "changeable": 0
     },
-    {"key":"嘉良","name":"嘉良｜影视","type":3,"api":"https://jihulab.com/wanda/4k/-/raw/main/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/wanda/4k/-/raw/main/JS/嘉良影视.js"},
+    {"key":"嘉良","name":"嘉良｜影视","type":3,"api":"https://jihulab.com/wanda/4k/-/raw/main/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/wanda/4k/-/raw/main/js/嘉良影视.js"},
      {
       "key": "索尼",
       "name": "🛸┃乐看┃",
