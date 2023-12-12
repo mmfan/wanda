@@ -77,7 +77,7 @@
       "changeable": 0
     },
     
-     {"key":"嘉良","name":"🏂┃嘉良┃","type":3,"api":"./JS/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/嘉良影视.js"},
+     {"key":"嘉良","name":"┃嘉良┃","type":3,"api":"./JS/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/嘉良影视.js"},
      {
       "key": "索尼",
       "name": "🛸┃乐看┃",
