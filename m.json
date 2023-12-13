@@ -214,18 +214,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/Free影视.json"
     },
-     {
-      "key": "老虎",
-      "name": "🐯┃老虎┃",
-      "type": 3,
-      "jar": "./jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
-      "api": "csp_App",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/老虎.json"
-    },
+    
      {
       "key": "低端",
       "name": "🛣┃低端┃",
@@ -1561,26 +1550,7 @@
       "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/短视频聚合.json"
     },
-    {
-      "key": "js_Yj1211直播",
-      "name": "👑┃直播┃合集",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/jrslive.js"
-    },
-    {
-      "key": "py_huya",
-      "name": "🐯┃虎牙┃[PY]",
-      "type": 3,
-      "api": "py_huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/pyhuya.py"
-    },
+   
     {
       "key": "csp_虎牙",
       "name": "🐯┃虎牙┃直播",
