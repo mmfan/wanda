@@ -216,14 +216,23 @@
     },
      {
       "key": "老虎",
-      "name": "💘┃老虎┃",
+      "name": "🐯┃老虎┃",
       "type": 3,
+      "jar": "./jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
       "api": "csp_App",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/老虎.json"
+    },
+     {
+      "key": "低端",
+      "name": "🛣┃低端┃",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/ddys.js"
     },
          {
       "key": "saohuo",
