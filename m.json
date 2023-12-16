@@ -1,16 +1,7 @@
 {
   "warningText": "🐼4k版影音天堂下载地址tvbox.plus🐼",
   "sites": [
-        {
-      "key": "影探VIP",
-      "name": "影视世界┃4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
-    },
+       
       {
       "key": "豆豆",
       "name": "🌕┃热播┃榜单",
@@ -214,9 +205,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/Free影视.json"
     },
-    {"key":"smyy","name":"🐎┃神马┃","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","免嗅":"1","数组":"<a&&</a></p></li>","图片":"src=\"&&\"","简介":"description\">&&</div>","线路二次截取":"<div class=\"description\"&&最新国产剧","线路数组":"class=\"box p15&&无需安装","线路标题":"<h5>&&</h5>","分类":"电影&电视剧&综艺&动漫","分类值":"1&2&4&3","分类url":"https://www.smbuka.com/l/{cateId}-{catePg}.html"}},
-
-{"key":"csp_神马影视","name":"🐴┃什么┃","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","免嗅":"1","线路数组": "<li><a class=\"play-title&&</a>","线路标题": ">&&</a>", "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$domgman","分类url":"https://www.sm181.com/vodlist/{cateId}_{area}_{class}_{year}___{catePg}.html"}},
+   
      {
       "key": "低端",
       "name": "🛣┃低端┃",
