@@ -1270,7 +1270,7 @@
      
      {
       "key": "YiSo",
-      "name": "😹易搜┃搜索",
+      "name": "阿里云盘┃易搜",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
       "api": "csp_YiSo",
@@ -1281,7 +1281,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🐺找资源┃搜索",
+      "name": "阿里云盘┃找资源",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
       "api": "csp_Zhaozy",
@@ -1292,7 +1292,7 @@
     },
     {
       "key": "PanSou",
-      "name": "🦊盘搜┃搜索",
+      "name": "阿里云盘┃盘搜",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
       "api": "csp_PanSou",
@@ -1303,7 +1303,7 @@
     },
     {
       "key": "UpYun",
-      "name": "😻Up搜┃搜索",
+      "name": "阿里云盘┃Up搜",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
       "api": "csp_UpYun",
@@ -1314,7 +1314,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "🙀盘Se┃搜索",
+      "name": "阿里云盘┃盘Se",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
       "api": "csp_PanSearch",
@@ -1325,7 +1325,7 @@
     },
     {
       "key": "七夜",
-      "name": "😾七夜┃搜索",
+      "name": "阿里云盘┃七夜",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
       "api": "csp_Dovx",
